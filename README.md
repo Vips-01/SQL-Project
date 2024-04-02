@@ -1,5 +1,4 @@
-# SQL PROJECT
-**Context for Advanced SQL Analytics Project: Exploring an Instagram-like Dataset**
+# Context for Advanced SQL Analytics Project: Exploring an Instagram-like Dataset
 
 Welcome to this exercise designed to challenge your skills in advanced SQL analytics. In this exercise, we'll be working with a simplified version of an Instagram-like database schema. This schema represents the core components of a social media platform where users can post photos, like, comment, follow each other, and more.
 
